@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import L from 'leaflet';
 import { useEffect, useState } from 'react';
 import { MapContainer, Marker, TileLayer } from 'react-leaflet';
